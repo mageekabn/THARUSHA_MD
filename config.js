@@ -7,5 +7,5 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
 Alive_img: process.env.Alive_IMG ||"https://telegra.ph/file/7d7c08be87ecdca85f537.jpg"
-Alive_MSG: process.env.Alive_img ||"Hellow,I am Tharusha sandipa i am alive now",
+Alive_MSG: process.env.Alive_msg ||"Hellow,I am Tharusha sandipa i am alive now",
 };
