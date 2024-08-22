@@ -51,7 +51,7 @@ ${menu.search}
 
 POWERD BY THARUSHA SANDIPA 💚
 `
-await conn.sendMessage(from,{text:madeMenu},{quoted:mek})
+await conn.sendMessage(from,{image:{url:"https://telegra.ph/file/c3a9da1ba7b953e83eeb1.jpg"},caption:madeMenu},{quoted:mek})
 
   
 
