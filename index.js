@@ -133,6 +133,15 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
                 return conn.sendMessage(jid, { audio: await getBuffer(url), caption: caption, mimetype: 'audio/mpeg', ...options }, { quoted: quoted, ...options })
               }
             }
+
+//=========================WORK-type=================================================== 
+if(!isowner && config.MODE === "private") return
+if(!isowner && isGroup && config.MODE === "inbox") return
+if(!isowner && !isGroup && config.MODE === "groups") return
+//=====================================================
+
+
+        
 const events = require('./command')
 const cmdName = isCmd ? body.slice(1).trim().split(" ")[0].toLowerCase() : false;
 if (isCmd) {
@@ -164,11 +173,6 @@ mek.type === "stickerMessage"
 ) {
 command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply})
 }});
-//=========================WORK-type=================================================== 
-if(!isowner && config.MODE === "private") return
-if(!isowner && isGroup && config.MODE === "inbox") return
-if(!isowner && !isGroup && config.MODE === "groups") return
-//=====================================================
 
 })
 }
