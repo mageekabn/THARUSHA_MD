@@ -24,7 +24,8 @@
  ## 😗 ***my first whatsapp bot 🎉 [https://github.com/mageekabn/THARUSHA_MD/tree/main/)***
 
 
----
+<p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="mageekabn :: Visitor's Count" /></p>
+
 
 
 # 1st fork repo
