@@ -27,6 +27,9 @@
 ---
 
 
+# 1st fork repo
+[![FORK THARUSHA-MD](https://img.shields.io/badge/FORK%20-THARU%20S%20MD-white)](https://github.com/mageekabn/THARUSHA_MD/fork)
+
 
 
 
