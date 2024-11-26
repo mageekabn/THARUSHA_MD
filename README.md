@@ -16,12 +16,12 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="mageekabn :: Visitor's Count" /></p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
   
- ## 🇱🇰 ***New bot, latest version 🎉 [https://github.com/mageekabn/THARUSHA_MD/tree/main/)***
+ ## 😗 ***my first whatsapp bot 🎉 [https://github.com/mageekabn/THARUSHA_MD/tree/main/)***
 
 
 ---
@@ -35,15 +35,7 @@
 
   
 
- ## DEPLOYMENT METHODS
-
-  
-
-
-
-
-  
-..........................................................
+ 
 
 ●. ***Get a Mongodb uri from [Clever-Cloud](https://api.clever-cloud.com/v2/session/login).***
 
@@ -51,8 +43,8 @@
 
 ●.  ***Click [FORK](‼️https://github.com/mageekabn/THARUSHA_MD/fork)***
 
----
-
+---------------------------------------------
+# # Deploy methods
 
 
 [![Deploy on heroku]
