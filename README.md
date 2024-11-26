@@ -24,13 +24,11 @@
 
 ---
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
 
-<b>GET SESSION ID VIA PAIR CODE 01</b>
-<p align="center">
-<a href='https://queen-rashmi-md-3fcf23a5fafc.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+
+
 
 
   
