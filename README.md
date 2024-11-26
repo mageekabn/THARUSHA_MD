@@ -1,7 +1,7 @@
 <p align="center">  
   <a href="https://i.ibb.co/cYvncRx/fe366ce534b8dedf.jpg">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/cYvncRx/fe366ce534b8dedf.jpg">
-    <h1 align="center"> PRABATH-MD </h1>
+    <h1 align="center"> THARUSHA-MD </h1>
   </a>
 </p>  
 <p align="center">
