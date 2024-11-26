@@ -43,7 +43,7 @@
 
 
 
-# GET SESSION ID VIA PAIR CODE </b>
+# 2ND GET SESSION ID VIA PAIR CODE </b>
 <p align="center">
 <a href='https://queen-rashmi-md-3fcf23a5fafc.herokuapp.com/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
@@ -59,10 +59,8 @@
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
 ●.  ***Click [FORK](‼️https://github.com/mageekabn/THARUSHA_MD/fork)***
-
----------------------------------------------
-#  Deploy methods
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+# 3RD DEPLOY METHODS
 
 [![Deploy on heroku]
 
