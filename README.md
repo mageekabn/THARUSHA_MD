@@ -24,6 +24,9 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="mageekabn :: Visitor's Count" /></p>
 
+- [**❯OWNER_NUMBER❮**](https://wa.me/+94740326138?text=*❝𝙷𝙴𝚈-Tharu❞⛺*)
+
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
   
