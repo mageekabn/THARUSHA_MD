@@ -16,7 +16,7 @@
 
 ---
 
-<p align="center"><img src="https://profile-counter.glitch.me/{prabathLK}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
 
   
  ## 🇱🇰 ***New bot, latest version 🎉 [new reposity](https://github.com/prabathLK/PRABATH-MD/)***
