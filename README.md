@@ -1,2 +1,2 @@
 # THARUSHA_MD
-A simple whatsapp bot
+welcome to THARUSHA_MD whatsapp bot 😗❤️‍🩹
