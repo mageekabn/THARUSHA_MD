@@ -18,6 +18,8 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="prabathLK :: Visitor's Count" /></p>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
   
  ## 🇱🇰 ***New bot, latest version 🎉 [https://github.com/mageekabn/THARUSHA_MD/tree/main/)***
 
