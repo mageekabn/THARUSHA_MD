@@ -70,4 +70,4 @@
 
 ## License
 
-The prabath-md is made available under the [GPL-3 license](https://github.com/prabathLK/PRABATH-MD/blob/main/LICENCE).
+git hub multi device whatsapp bot THARUSHA_MD
