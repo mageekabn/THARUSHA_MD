@@ -26,9 +26,8 @@
 
 ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FprabathLK%2FPRABATH_MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/mageekabn/THARUSHA_MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/prabathLK/PRABATH_MD?style=social)
+
 
 
   
@@ -37,9 +36,8 @@
 
   
 
-●. ***[SCAN QR CODE SERVER-1](https://prabath-md-qr-web-prabath.koyeb.app/)***
 
-●. ***[SCAN QR CODE SERVER-2](https://replit.com/@Amilaprabath/PRABATH-MDQR?output%20only=1&lite=1#index.js)***
+
 
   
 ..........................................................
@@ -48,11 +46,11 @@
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/prabathLK/PRABATH-MD/fork)***
+●.  ***Click [FORK](‼️https://github.com/mageekabn/THARUSHA_MD/fork)***
 
 ---
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/prabathLK/PRABATH_MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94762280384&env[MONGODB_URI]&&env[OWNER_NAME]=prabath&env[KOYEB_API]&env[AUTO_READ_STATUS]=false&env[ANTI_BAD_WORD]=fuck,huththa,pakaya&env[ALWAYS_ONLINE]=true&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/0ff686352c51b20af8231.jpg&env[ALIVE_MSJ]=IAmOnline&env[AUTO_RESTART]=true&env[SUDO]=94762280384&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[DL_SIZE]=60&env[WORK_TYPE]=public&env[THEME]=PRABATH-MD&env[PACK_INFO]=prabath;madebyprabathmd&name=prabath-md&env[KOYEB_NAME]=prabath-md&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)
+
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NO4jvb?referralCode=iM43z3)
 
@@ -60,7 +58,7 @@
 
   
 
- ## [Deploy on VPS or PC.](https://github.com/prabathLK/PRABATH_MD/blob/main/deploy-on-vps.md)
+
 
  
 
