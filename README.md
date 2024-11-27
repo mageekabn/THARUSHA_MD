@@ -26,6 +26,8 @@
 
 - [**❯OWNER_NUMBER❮**](https://wa.me/+94740326138?text=*❝𝙷𝙴𝚈-Tharu❞⛺*)
 
+## Bot Owner  https://wa.me/94740326138
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
