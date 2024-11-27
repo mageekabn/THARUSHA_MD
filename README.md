@@ -71,7 +71,8 @@
 
 [![Deploy on heroku]
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/mageekabn/THARUSHA_MD=https://github.com/mageekabn/THARUSHA_MD.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app)
+
 
   
 
