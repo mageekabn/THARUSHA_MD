@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">  
   <a href="https://i.ibb.co/cYvncRx/fe366ce534b8dedf.jpg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/cYvncRx/fe366ce534b8dedf.jpg">
+    <img alt="secktor docs" height="300" src="https://i.ibb.co/5kwd00y/3a86d4ee967af0e6.jpg">
     <h1 align="center"> THARUSHA-MD </h1>
   </a>
 </p>  
