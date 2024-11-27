@@ -9,7 +9,7 @@
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/KwFkWjI8qJ6B174esar8IM" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/L7UnC5p54lDCQF1r0CvgFE" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a aria-label="Secktor is free to use" href="https://github.com/SamPandey001/Secktor-Md/blob/main/LICENCE" target="_blank">
@@ -17,8 +17,6 @@
   </a>
 
 </p>
-
----
 
 <p align="center"><img src="https://profile-counter.glitch.me/{mageekabn}/count.svg" alt="mageekabn :: Visitor's Count" /></p>
 
