@@ -62,11 +62,9 @@
 
 ●.  ***Click [FORK](‼️https://github.com/mageekabn/THARUSHA_MD/fork)***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-# 3RD DEPLOY METHODS
+# 3RD DEPLOY METHOD
 
-[![Deploy on heroku]
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app)
+[![nima](https://img.shields.io/badge/tharusha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD-V2)
 
 
   
