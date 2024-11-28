@@ -36,7 +36,7 @@
 
 
 
-# 1st fork repo
+# FORK REPO
 [![FORK THARUSHA-MD](https://img.shields.io/badge/FORK%20-THARU%20S%20MD-white)](https://github.com/mageekabn/THARUSHA_MD/fork)
 
 
@@ -62,9 +62,10 @@
 
 ●.  ***Click [FORK](‼️https://github.com/mageekabn/THARUSHA_MD/fork)***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
-# 3RD DEPLOY METHOD
+#  DEPLOY METHOD
+<p align="center">
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
-[![nima](https://img.shields.io/badge/tharusha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/ASITHA-MD/ASITHA-MD-V2)
 
 
   
