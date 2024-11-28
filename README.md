@@ -58,20 +58,5 @@
 ●.  ***Click [FORK](‼️https://github.com/mageekabn/THARUSHA_MD/fork)***
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 #  DEPLOY METHOD
-<p align="center">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
 
 
-
-  
-
-
-
- 
-
-
- ---
-
-## License
-
-git hub multi device whatsapp bot THARUSHA_MD
