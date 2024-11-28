@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=WELCOME+TO+THARUSHA-MD;MULTI-DEVICE+WHATSAPP+BOT;CREATED+BY+CYBER THARU " alt="Typing SVG" /></a>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 <p align="center">  
-  <a href="ඉමේජ් url">
+  <a href="https://i.ibb.co/tZ1YYLs/33ec0611ef73c3c7.jpg">
     <img alt="secktor docs" height="300" src="https://i.ibb.co/5kwd00y/3a86d4ee967af0e6.jpg">
     <h1 align="center"> THARUSHA-MD </h1>
   </a>
