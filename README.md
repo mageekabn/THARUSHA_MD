@@ -42,7 +42,7 @@
 
 
 <b>GET SESSION ID VIA PAIR CODE 01 </b>
-
+https://skefksk-4eba7c7ac4db.herokuapp.com/
 
 <b>GET SESSION ID VIA PAIR CODE 02</b>
 
